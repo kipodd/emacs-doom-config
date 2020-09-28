@@ -49,6 +49,7 @@
 ;; ...Or *all* packages (NOT RECOMMENDED; will likely break things)
 ;(unpin! t)
 
+;; my packages:
 ;; (package! ob-typescript)
 ;; (package! prettier-js)
 ;; (package! vue-mode)
